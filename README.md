@@ -6,7 +6,7 @@
   </a>
 </div>
 
-#### 🧑‍💻 &nbsp;&nbsp;About me
+### 🧑‍💻 &nbsp;&nbsp;About me
 
 I'm a Fullstack developer and a Computer Scientist who likes to work with JavaScript/TypeScript (React Js, React Native, Next Js, Meteor Js, Node Js, Express Js, Next Js, etc.) among others.
 
@@ -32,6 +32,8 @@ I'm a Fullstack developer and a Computer Scientist who likes to work with JavaSc
   </a>
 </p>
 
+### 🔎 &nbsp;&nbsp;My Stats
+
   <table align="center" border="0">
       <tr>
         <td>
@@ -51,7 +53,13 @@ I'm a Fullstack developer and a Computer Scientist who likes to work with JavaSc
       </tr>
   </table>
 
-#### 🧡 &nbsp;&nbsp;My Passions
+### &nbsp;&nbsp;My Skills
+
+<div align="center" display="flex" justify-item="center" align-item="center" > 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height="30px" width="30px" alt="JS" />
+</div>
+
+### 🧡 &nbsp;&nbsp;My Passions
 
 - Coding
 - AI/Machine learning
