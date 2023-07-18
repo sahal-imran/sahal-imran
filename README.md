@@ -40,8 +40,9 @@ I'm a Fullstack developer and a Computer Scientist who likes to work with JavaSc
               <br />
               <small align="center">My Github Stats</small>
             </div>
-          <hr>
-          <div align="center">
+        </td>
+        <td>
+        <div align="center">
             <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahal-imran&exclude_repo=TaskManagement,laracast-redis,laravel-forum,screenshots-codepen,educative.io_courses,laracast6-code,Amazon-SDE-Preparation&layout=compact&hide=html&hide_title=1&card_width=300&hide_border=true" alt="Top language used in my repos" />
             <br />
             <small style="font-size:12px;" align="center">Languages used in my public repos - big fan of JS/TS ❣️</small>
