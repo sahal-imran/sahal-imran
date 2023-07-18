@@ -1,4 +1,3 @@
-
 # Hey 👋, I'm Sahal
 
 <div align="right">
@@ -7,8 +6,10 @@
   </a>
 </div>
 
-#### 🧡 &nbsp;&nbsp;About me
-I'm a Fullstack developer and a Computer Scientist who likes to work with JavaScript/TypeScript (React Js, React Native, Next Js, Meteor Js, Node Js, Express Js, Next Js, etc.) among others. 
+#### 🧑‍💻 &nbsp;&nbsp;About me
+
+I'm a Fullstack developer and a Computer Scientist who likes to work with JavaScript/TypeScript (React Js, React Native, Next Js, Meteor Js, Node Js, Express Js, Next Js, etc.) among others.
+
 - 🔭 I’m currently working on Full Stack Web Apps.
 - 🌱 I’m currently learning Web3.0 and Blockchain.
 - 👯 I’m looking to collaborate on Full Stack projects and Web3 projects.
@@ -31,11 +32,28 @@ I'm a Fullstack developer and a Computer Scientist who likes to work with JavaSc
   </a>
 </p>
 
+  <table align="center" border="0">
+      <tr>
+        <td>
+          <div align="center">
+                 <img width="" src="https://github-readme-stats.vercel.app/api?username=sahal-imran&show_icons=true&theme=radical" alt="Maajid's Github Stats" />
+              <br />
+              <small align="center">My Github Stats</small>
+            </div>
+          <hr>
+          <div align="center">
+            <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahal-imran&exclude_repo=TaskManagement,laracast-redis,laravel-forum,screenshots-codepen,educative.io_courses,laracast6-code,Amazon-SDE-Preparation&layout=compact&hide=html&hide_title=1&card_width=300&hide_border=true" alt="Top language used in my repos" />
+            <br />
+            <small style="font-size:12px;" align="center">Languages used in my public repos - big fan of JS/TS ❣️</small>
+          </div>
+        </td>
+      </tr>
+  </table>
+
 #### 🧡 &nbsp;&nbsp;My Passions
 
-* Coding
-* AI/Machine learning
-* Blockchain
-* Watching movies on history
-* Gaming
-
+- Coding
+- AI/Machine learning
+- Blockchain
+- Watching movies on history
+- Gaming
