@@ -1,105 +1,215 @@
 <div align="center">
 
-# Hi, I'm Sahal Imran 👋
+Hi, I'm Sahal Imran 👋
 
-### Full-Stack Software Engineer · SaaS & MVP Builder · AI & Automation
+Full-Stack Developer & AI Solutions Expert
 
-I design and build production-ready web applications, APIs, SaaS products, internal platforms, and mobile experiences.
+Building scalable products that solve real business problems.
+
+I design and develop production-ready web apps, mobile apps, SaaS platforms, APIs, and AI-powered systems for startups and growing businesses.
 
 <p>
-  <a href="https://www.linkedin.com/in/sahal-imran-511b24203/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></a>
-  <a href="mailto:sahalimran7866@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-  <a href="https://github.com/sahal-imran"><img src="https://img.shields.io/github/followers/sahal-imran?style=for-the-badge&logo=github&label=Follow" alt="Follow Sahal Imran on GitHub" /></a>
+  <a href="https://www.sahalimran.com/"><img src="https://img.shields.io/badge/Portfolio-sahalimran.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sahal-imran-511b24203/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sahalimran7866@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
-## About Me
+👨‍💻 About Me
 
-I am a full-stack software engineer focused on turning complex product requirements into maintainable, scalable, and reliable software.
+I'm a Full-Stack Developer and AI Solutions Expert with 5+ years of experience building scalable, user-focused digital products from concept to deployment.
 
-- Build SaaS products, MVPs, dashboards, marketplaces, PWAs, and custom business systems
-- Design secure REST APIs with authentication, RBAC, caching, webhooks, and third-party integrations
-- Work with PostgreSQL, Supabase, MongoDB, Redis, and relational data modeling
-- Deploy applications using AWS, Vercel, Supabase, Azure, Docker, and serverless infrastructure
-- Explore AI/ML, speech AI, intelligent automation, and AI-enabled product experiences
-- Develop web and mobile applications with React, Next.js, and React Native
+My work combines frontend engineering, backend architecture, databases, cloud infrastructure, mobile development, and applied AI. I focus on clean architecture, performance, maintainability, and real-world usability.
 
-## Tech Stack
+🚀 Build SaaS, IaaS, MVPs, dashboards, marketplaces, PWAs, and custom business systems
 
-### Languages
+⚙️ Design REST APIs, authentication/authorization, RBAC, webhooks, caching, and third-party integrations
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="TypeScript, JavaScript, Python, HTML, and CSS" />
-</p>
+🤖 Build AI chatbots, RAG systems, AI automation workflows, and OpenAI-powered features
 
-### Frontend
+📱 Develop cross-platform mobile applications and backend-integrated experiences
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind CSS, and Vite" />
-</p>
+☁️ Work across cloud, serverless, database, and deployment infrastructure
 
-`React` · `Next.js` · `React Native` · `Tailwind CSS` · `shadcn/ui` · `Headless UI` · `React Query` · `Zod`
+🤝 Experienced working with founders, startups, product teams, and international clients
 
-### Backend & APIs
+🛠️ Tech Stack
+
+Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,html,css" alt="TypeScript, JavaScript, Python, C++, C#, HTML and CSS" />
 </p>
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Access/Refresh Tokens` · `RBAC` · `Webhooks` · `Serverless Functions`
-
-### Databases & Cloud
+Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,aws,azure,vercel,docker" alt="PostgreSQL, Supabase, MongoDB, Redis, AWS, Azure, Vercel, and Docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,vite" alt="React, Next.js, Vue, Flutter, Tailwind CSS and Vite" />
 </p>
 
-`PostgreSQL` · `Supabase` · `MongoDB` · `Redis/Upstash` · `AWS S3/EC2` · `Azure` · `Vercel` · `Docker`
+React · Next.js · Vue · React Native · Flutter · Tailwind CSS · shadcn/ui · React Query · Zod
 
-### Tools & Practices
+Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,pnpm,figma" alt="Git, GitHub, Postman, npm, pnpm, and Figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,dotnet" alt="Node.js, Express.js, Django, FastAPI and .NET" />
 </p>
 
-`Git` · `GitHub Actions` · `CI/CD` · `Postman` · `API Integrations` · `System Design`
+Node.js · Express.js · Django · FastAPI · .NET · REST APIs · JWT · RBAC · Webhooks · API Integrations
 
-## What I Build
+Databases & Cloud
 
-| Area | Focus |
-| --- | --- |
-| **SaaS & MVPs** | Product architecture, feature development, and deployment from concept to launch |
-| **Full-Stack Web Applications** | Responsive, scalable products built with modern React and Next.js |
-| **Backend Systems & APIs** | Secure services with authentication, RBAC, logging, and integrations |
-| **Admin Panels & CMS Platforms** | Permissions, content workflows, analytics, and operational tooling |
-| **Marketplaces & Discovery Platforms** | Search, filtering, listings, profiles, and rich content experiences |
-| **PWAs & Ordering Systems** | Mobile-first flows, carts, checkout, payments, and order management |
-| **AI & Automation** | Speech-to-text, AI-assisted workflows, CRM/data synchronization, and business automation |
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,redis,aws,azure,vercel,docker" alt="Databases and cloud technologies" />
+</p>
 
-## GitHub Stats
+PostgreSQL · MongoDB · MySQL · Supabase · Firebase · Redis · AWS · Azure · Vercel · Docker
 
-<div align="center">
-  <img src="./profile/stats.svg" height="180" alt="Sahal Imran's GitHub statistics" />
-  <img src="./profile/top-langs.svg" height="180" alt="Sahal Imran's most used programming languages" />
-</div>
+AI & Automation
+
+AI Chatbots · OpenAI API · RAG Systems · AI Automation · Prompt Engineering · Speech AI · Intelligent Workflows
+
+Engineering Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,npm,pnpm,figma" alt="Engineering tools" />
+</p>
+
+Git · GitHub · GitLab · GitHub Actions · CI/CD · Postman · Swagger · System Design
+
+💼 Experience
+
+Role
+
+Company
+
+Period
+
+Full Stack & AI Developer
+
+Fiverr / Upwork
+
+2020 — Present
+
+Personal Assistant — Product & Development
+
+Living3D
+
+Apr 2025 — Dec 2025
+
+Product Designer & Developer
+
+Astrascribe
+
+Jan 2025 — Mar 2025
+
+Full Stack Developer
+
+Secomind (StudioX)
+
+Oct 2023 — Feb 2024
+
+Full Stack Developer
+
+Biokript
+
+Nov 2021 — Feb 2024
+
+🚀 Selected Projects
+
+Project
+
+What I Built
+
+Astrascribe
+
+EMR, AI Scribe, and hospital management platform
+
+Builder Bid Book
+
+Platform connecting builders with contracts
+
+Twendi
+
+Athlete discovery and profile platform
+
+TieBreak10
+
+Tennis tournament management system
+
+Aabroowear
+
+E-commerce clothing store
+
+I Love Massages
+
+UK massage therapist directory
+
+More work and case studies are available on sahalimran.com.
+
+🔨 What I Build
+
+Area
+
+Focus
+
+Full-Stack Web Development
+
+End-to-end applications with scalable architecture and modern frontend systems
+
+Android / iOS Development
+
+Cross-platform mobile applications with backend and API integration
+
+Backend & API Systems
+
+Secure APIs, authentication, integrations, and structured data flows
+
+AI Integration & Automation
+
+AI-powered features, chatbots, RAG, automation, and intelligent workflows
+
+SaaS / IaaS / MVP Development
+
+Product architecture, role-based systems, cloud infrastructure, and rapid delivery
+
+Maintenance & Optimization
+
+Performance improvements, upgrades, debugging, and system optimization
+
+📊 GitHub Stats
 
 <p align="center">
-  <sub>Languages shown are based on public repository code and do not represent overall proficiency.</sub>
+  <img src="./profile/stats.svg" height="175" alt="Sahal Imran's GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="175" alt="Sahal Imran's most used programming languages" />
 </p>
 
-## Let's Connect
+<p align="center">
+  <sub>GitHub language statistics are based on public repository code and do not represent overall technical proficiency.</sub>
+</p>
 
-I am open to collaborating on SaaS products, MVPs, full-stack platforms, AI-powered applications, and custom software systems.
+🎓 Education
+
+Bachelor of Science in Computer Science
+University of Engineering & Technology, Taxila · 2020 — 2024
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sahal-imran-511b24203/">LinkedIn</a> ·
-<a href="mailto:sahalimran7866@gmail.com">Email</a> ·
-<a href="https://github.com/sahal-imran">GitHub</a>
+🤝 Let's Build Something
 
-<br /><br />
+I'm available for full-stack development, AI integrations, SaaS/MVP development, mobile apps, backend systems, and long-term product collaboration.
 
-*Build useful things. Keep them simple. Make them reliable.*
+<p>
+  <a href="https://www.sahalimran.com/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/sahal-imran-511b24203/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:sahalimran7866@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/sahal-imran">GitHub</a>
+</p>
+
+Building products that scale.
 
 </div>
