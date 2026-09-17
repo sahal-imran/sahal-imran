@@ -12,13 +12,13 @@ workflows, and AI-powered features.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sahal-imran-511b24203/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />{=html}
-</a>{=html} <a href="mailto:sahalimran7866@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />{=html}
-</a>{=html} <a href="https://github.com/sahal-imran">{=html}
-<img src="https://img.shields.io/github/followers/sahal-imran?style=for-the-badge&logo=github&label=Follow" alt="GitHub followers" />{=html}
-</a>{=html}
+<a href="https://www.linkedin.com/in/sahal-imran-511b24203/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> <a href="mailto:sahalimran7866@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a> <a href="https://github.com/sahal-imran">
+<img src="https://img.shields.io/github/followers/sahal-imran?style=for-the-badge&logo=github&label=Follow" alt="GitHub followers" />
+</a>
 
 </p>
 
@@ -54,7 +54,7 @@ Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Languages" />{=html}
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Languages" />
 
 </p>
 
@@ -62,7 +62,7 @@ Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend technologies" />{=html}
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend technologies" />
 
 </p>
 
@@ -73,7 +73,7 @@ Backend & APIs
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
 
 </p>
 
@@ -84,7 +84,7 @@ Databases & Infrastructure
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,aws,azure,vercel,docker" alt="Databases and cloud" />{=html}
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,aws,azure,vercel,docker" alt="Databases and cloud" />
 
 </p>
 
@@ -95,7 +95,7 @@ Tools & Engineering
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm,pnpm,figma" alt="Engineering tools" />{=html}
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,pnpm,figma" alt="Engineering tools" />
 
 </p>
 
@@ -135,8 +135,8 @@ See .github/workflows/readme-stats.yml.
 
 <p align="center">
 
-<img src="./profile/stats.svg" height="180" alt="Sahal's GitHub stats" />{=html}
-<img src="./profile/top-langs.svg" height="180" alt="Sahal's most used GitHub languages" />{=html}
+<img src="./profile/stats.svg" height="180" alt="Sahal's GitHub stats" />
+<img src="./profile/top-langs.svg" height="180" alt="Sahal's most used GitHub languages" />
 
 </p>
 
@@ -150,17 +150,17 @@ platforms, AI-powered applications, and custom software systems.
 
 <p>
 
-<a href="https://www.linkedin.com/in/sahal-imran-511b24203/">{=html}LinkedIn</a>{=html}
- • 
-<a href="mailto:sahalimran7866@gmail.com">{=html}Email</a>{=html}
- • 
-<a href="https://github.com/sahal-imran">{=html}GitHub</a>{=html}
+<a href="https://www.linkedin.com/in/sahal-imran-511b24203/">LinkedIn</a>
+ •
+<a href="mailto:sahalimran7866@gmail.com">Email</a>
+ •
+<a href="https://github.com/sahal-imran">GitHub</a>
 
 </p>
 
 <p align="center">
 
-<strong>{=html}Build useful things. Keep them simple. Make them
-reliable.</strong>{=html}
+<strong>Build useful things. Keep them simple. Make them
+reliable.</strong>
 
 </p>
