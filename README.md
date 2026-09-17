@@ -6,8 +6,6 @@
 
 Building scalable products that solve real business problems.
 
-I design and develop production-ready web apps, mobile apps, SaaS platforms, APIs, and AI-powered systems for startups and growing businesses.
-
 <p>
   <a href="https://www.sahalimran.com/"><img src="https://img.shields.io/badge/Portfolio-sahalimran.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sahal-imran-511b24203/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,7 +14,7 @@ I design and develop production-ready web apps, mobile apps, SaaS platforms, API
 
 </div>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a full-stack developer and AI solutions expert with 5+ years of experience building scalable, user-focused digital products from concept to deployment.
 
